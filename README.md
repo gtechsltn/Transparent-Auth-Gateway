@@ -26,3 +26,8 @@ There are 3 projects:
 - [OpenIdDict.Server](./OpenIdDict.Server) – a bespoke _Transparent Auth Gateway_ that that implements OAuth 2 [Authorization Code Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow) with [PKCE](https://oauth.net/2/pkce/) to serve other client apps as a trusted authority and perform authentication from a linked _Identity Provider_ (a specified tenant of Azure AD).
 - [OpenIdDict.Client.Api](./OpenIdDict.Client.Api) – A Web API app that validates the _access token_ issued by a custom Auth Gateway along with a Swagger front-end to request the token and run HTTP requests against test end-points.
 
+# Auth Gateway:
++ https://alex-klaus.com/transparent-auth-gateway-1/
++ https://alex-klaus.com/transparent-auth-gateway-2/
++ https://alex-klaus.com/transparent-auth-gateway-3/
++ https://alex-klaus.com/transparent-auth-gateway-4/
